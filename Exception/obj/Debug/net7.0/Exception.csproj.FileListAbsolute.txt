@@ -1,0 +1,14 @@
+C:\Users\aarthb\AarthiB\C Sharp\Exception\bin\Debug\net7.0\Exception.exe
+C:\Users\aarthb\AarthiB\C Sharp\Exception\bin\Debug\net7.0\Exception.deps.json
+C:\Users\aarthb\AarthiB\C Sharp\Exception\bin\Debug\net7.0\Exception.runtimeconfig.json
+C:\Users\aarthb\AarthiB\C Sharp\Exception\bin\Debug\net7.0\Exception.dll
+C:\Users\aarthb\AarthiB\C Sharp\Exception\bin\Debug\net7.0\Exception.pdb
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\Exception.AssemblyInfoInputs.cache
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\Exception.AssemblyInfo.cs
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\Exception.dll
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\refint\Exception.dll
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\Exception.pdb
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\Exception.genruntimeconfig.cache
+C:\Users\aarthb\AarthiB\C Sharp\Exception\obj\Debug\net7.0\ref\Exception.dll
