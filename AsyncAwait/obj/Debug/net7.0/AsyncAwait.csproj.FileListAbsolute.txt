@@ -1,0 +1,14 @@
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\bin\Debug\net7.0\AsyncAwait.exe
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\bin\Debug\net7.0\AsyncAwait.deps.json
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\bin\Debug\net7.0\AsyncAwait.runtimeconfig.json
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\bin\Debug\net7.0\AsyncAwait.dll
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\bin\Debug\net7.0\AsyncAwait.pdb
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\AsyncAwait.dll
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\refint\AsyncAwait.dll
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\AsyncAwait.pdb
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\aarthb\AarthiB\C Sharp\AsyncAwait\obj\Debug\net7.0\ref\AsyncAwait.dll
